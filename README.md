@@ -1,2 +1,3 @@
 # FLL 2026 LLSP3 and TXT training. 
 (c) Aritya Arjunan
+# THIS CODE IS FOR THE UNSW EMU CHICKS ONLY
